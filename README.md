@@ -1,2 +1,0 @@
-# vvcchugo.github.io
-hugo
